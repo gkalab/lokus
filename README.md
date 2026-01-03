@@ -4,6 +4,12 @@
 
 # Lokus
 
+### Fork
+
+This is a fork of Lokus https://github.com/lokus-ai/lokus, before the license change to the Business Source License.
+
+---
+
 ### Local-first markdown note-taking app with database views, AI integration, and blazing-fast search
 
 **Built with React + Rust. Zero vendor lock-in. All data stays on your device.**
